@@ -1,0 +1,357 @@
+﻿
+.content-header{
+    margin-bottom: 3em;
+
+}
+
+.content-body{
+}
+
+.content-footer{
+       margin-top: 2%;
+       display: inline-block;
+       width: 100%;
+}
+
+
+
+/* Cart.aspx specific ID tags */
+#savemoney-container{
+    margin-bottom: 2em;
+}
+
+#savemoney-content{
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+#payment-buttons {
+list-style-type: none;
+padding: 0px; 
+
+}
+
+#payment-buttons li:first-child {
+  margin-left: 5px !important;
+}
+
+#payment-buttons li{
+margin-bottom: 10px;
+float: right;
+}
+
+
+
+
+@media screen and (max-width: 640px){
+   #payment-buttons li{
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    }
+}
+
+
+/* End of payment boxes on Cart page*/
+
+
+
+
+#left-text{
+    margin-top: 2%;
+  
+    width:40%;
+    float: left;
+}
+
+#right-text{
+    margin-top: 2%;
+   
+    width: 40%;
+    float: right;
+}
+
+.discount{
+    background-color: #002036;
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    border-radius: 2px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+
+
+
+/* CreditCard.aspx specific ID tags */
+
+#shipinfo-container{
+    margin: 3%;
+}
+
+#ccPromptText{
+    margin-bottom: 3%;
+}
+
+
+/* CartContensTable.aspx specific ID tags */
+
+
+
+
+
+
+
+/* General */
+
+
+.paypal-btn {
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 700;
+letter-spacing: 0px;
+border-radius: 2px;
+background: #0000ff;
+padding: 13px 29px;
+line-height: 17px;
+font-size: 14px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+    
+}
+
+.paypal-btn:hover {
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 700;
+letter-spacing: 0px;
+border-radius: 2px;
+background:  #3b7bbf;
+padding: 13px 29px;
+line-height: 17px;
+font-size: 14px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+} 
+
+.creditcard-btn {
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 700;
+letter-spacing: 0px;
+border-radius: 2px;
+background: black;
+padding: 13px 29px;
+line-height: 17px;
+font-size: 14px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+    
+}
+
+.creditcard-btn:hover {
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 700;
+letter-spacing: 0px;
+border-radius: 2px;
+background: #262626;
+padding: 13px 29px;
+line-height: 17px;
+font-size: 14px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+} 
+
+
+.update-btn {
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 700;
+letter-spacing: 0px;
+border-radius: 2px;
+background: #590059;
+padding: 13px 29px;
+line-height: 17px;
+font-size: 14px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+  margin-top: 5%;
+}
+
+.update-btn:hover {
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 700;
+letter-spacing: 0px;
+border-radius: 2px;
+background: #1a001a;
+padding: 13px 29px;
+line-height: 17px;
+font-size: 14px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+} 
+
+
+.discount-amount {
+color: white !important;
+font-size: 52px !important;
+font-weight: bold !important;
+margin: 25px;
+letter-spacing: -1px;
+line-height: 48px !important;
+} 
+
+
+.paypal-confirmation{
+    background-color: #EFEFEF;
+    color: #2f2f2f;
+    border-radius: 2px;
+    width: 100%;
+    height: auto;
+    padding: 25px;
+    text-align: center;
+}
+
+.upgrade-questionbg{
+    background-color: #EFEFEF;
+    color: #2f2f2f;
+    border-radius: 2px;
+    width: 100%;
+    height: auto;
+    padding: 25px;
+    text-align: left;
+}
+
+
+
+
+.next-btn {
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 700;
+letter-spacing: 0px;
+border-radius: 2px;
+background: #191919;
+padding: 13px 29px;
+line-height: 17px;
+font-size: 14px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+  margin-top: 5%;
+}
+
+.next-btn:hover {
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 700;
+letter-spacing: 0px;
+border-radius: 2px;
+background: #4c4c4c;
+padding: 13px 29px;
+line-height: 17px;
+font-size: 14px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+} 
+
+
+
+.previous-btn {
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 700;
+letter-spacing: 0px;
+border-radius: 2px;
+background: #7f7f7f;
+padding: 13px 29px;
+line-height: 17px;
+font-size: 14px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+  margin-top: 5%;
+}
+
+.previous-btn:hover {
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 700;
+letter-spacing: 0px;
+border-radius: 2px;
+background: #b2b2b2;
+padding: 13px 29px;
+line-height: 17px;
+font-size: 14px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+} 
+
+
+
+.completeorder-btn{
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 700;
+letter-spacing: 0px;
+border-radius: 2px;
+background: #AA1919;
+padding: 13px 29px;
+line-height: 17px;
+font-size: 14px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+  margin-top: 5%;
+}
+
+
+.completeorder-btn:hover {
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-weight: 700;
+letter-spacing: 0px;
+border-radius: 2px;
+background: #C35E5E;
+padding: 13px 29px;
+line-height: 17px;
+font-size: 14px;
+color: #fff;
+display: inline-block;
+text-transform: uppercase;
+} 
+
+
+
+/* Upgrade.aspx */
+
+.buynow-btn{
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0px;
+    border-radius: 2px;
+    background: #d31f1f;
+    padding: 13px 29px;
+    line-height: 17px;
+    font-size: 14px;
+    color: #fff;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+
+.process-btn {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0px;
+    border-radius: 2px;
+    background: #000851;
+    padding: 13px 29px;
+    line-height: 17px;
+    font-size: 14px;
+    color: #fff;
+    display: inline-block;
+    text-transform: uppercase;
+
+
+}

@@ -1,0 +1,1932 @@
+Uri: https://www.inspyder.com/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/header-img.jpg
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\header-img.jpg
+Content Type: image/jpeg
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/07/inspyder-pg-header-image-1.jpg
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\07\inspyder-pg-header-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/shadow-top.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\shadow-top.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/shadow-bottom.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\shadow-bottom.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/06/inspyder-favicon.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\06\inspyder-favicon.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/comments/feed/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.inspyder.com/home/feed/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\home\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.inspyder.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.1
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.inspyder.com/wp-content/plugins/search-everything/static/css/se-styles.css?ver=4.7.2
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\plugins\search-everything\static\css\se-styles.css
+Content Type: text/css
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/style.css?ver=3.8.2
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\style.css
+Content Type: text/css
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/fonts/fontawesome/font-awesome.css?ver=3.8.2
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\fonts\fontawesome\font-awesome.css
+Content Type: text/css
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/ilightbox.css?ver=3.8.2
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\ilightbox.css
+Content Type: text/css
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/animations.css?ver=3.8.2
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\animations.css
+Content Type: text/css
+
+Uri: https://www.inspyder.com/wp-json/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.inspyder.com/xmlrpc.php?rsd
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: https://www.inspyder.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://www.inspyder.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.inspyder.com%2F
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.inspyder.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.inspyder.com%2F&
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-json\oembed\1.0\embed-1
+Content Type: application/json
+
+Uri: https://www.inspyder.com/products
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/BacklinkMonitor
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\BacklinkMonitor.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/OrFind
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\OrFind.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/PowerSearch
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\PowerSearch.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/RankReporter
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\RankReporter.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/Web2Disk
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\Web2Disk.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/secure/Bundles.aspx
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\Bundles.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/free/HttpHeaderViewer.aspx
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\free\HttpHeaderViewer.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/free/SitemapValidator.aspx
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\free\SitemapValidator.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/free/HtmlEncoder.aspx
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\free\HtmlEncoder.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/KnowledgeBase
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\KnowledgeBase.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/support/Manuals
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\support\Manuals.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/support/LostRegistration.aspx
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\support\LostRegistration.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/support/Email
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\support\Email.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/Contact
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\Contact.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/secure/Cart.aspx
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\Cart.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/author/admin/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/Website-Spell-Checker
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\Website-Spell-Checker.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/WebScrapers
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\WebScrapers.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/RankReporter/Google-Position-Checker
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\RankReporter\Google-Position-Checker.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/WebsiteQATools
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\WebsiteQATools.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/secure/UpgradeWizard.aspx
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\UpgradeWizard.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/PrivacyPolicy
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\PrivacyPolicy.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/wp-content/media/EULA.pdf
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\EULA.pdf
+Content Type: application/pdf
+
+Uri: https://www.inspyder.com/wp-content/media/Uninstall.pdf
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\Uninstall.pdf
+Content Type: application/pdf
+
+Uri: https://www.inspyder.com/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.inspyder.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/insypder-logo.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\insypder-logo.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/06/inspyder-mobile-logo.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\06\inspyder-mobile-logo.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/american-airlines-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\american-airlines-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/microsoft.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\microsoft.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/adobe.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\adobe.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/canada.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\canada.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/amazon.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\amazon.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/fujitsu.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\fujitsu.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/backlink_monitor.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\backlink_monitor.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/insite.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\insite.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/orfind_1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\orfind_1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/power_search.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\power_search.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/rank-reporter.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\rank-reporter.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/sitemap_creator.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\sitemap_creator.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/web2disk.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\web2disk.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/support.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\support.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\plugins\contact-form-7\includes\js\jquery.form.min.js
+Content Type: application/javascript
+
+Uri: https://www.inspyder.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.1
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://www.inspyder.com/wp-includes/js/comment-reply.min.js?ver=4.7.2
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/js/main.min.js?ver=3.8.2
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://www.inspyder.com/wp-includes/js/wp-embed.min.js?ver=4.7.2
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://www.inspyder.com/Pixel.ashx
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\Pixel.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/backlink_monitor-66x66.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\backlink_monitor-66x66.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/insite-66x66.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\insite-66x66.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/orfind_1-66x66.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\orfind_1-66x66.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/power_search-66x66.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\power_search-66x66.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/rank-reporter-66x66.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\rank-reporter-66x66.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/sitemap_creator-66x66.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\sitemap_creator-66x66.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/web2disk-66x66.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\web2disk-66x66.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/support-66x66.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\support-66x66.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/ajax-loader.gif
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/fonts/icomoon/icomoon.eot
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\fonts\icomoon\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/fonts/icomoon/icomoon.woff
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\fonts\icomoon\icomoon.woff
+Content Type: font/x-woff
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/fonts/icomoon/icomoon.ttf
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\fonts\icomoon\icomoon.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/fonts/fontawesome/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\fonts\fontawesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/fonts/fontawesome/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\fonts\fontawesome\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/fonts/fontawesome/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\fonts\fontawesome\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/fonts/fontawesome/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\fonts\fontawesome\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/fonts/fontawesome/fontawesome-webfont.svg?v=4.3.0
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\fonts\fontawesome\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/social_icons/facebook_16.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\social_icons\facebook_16.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/social_icons/digg_16.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\social_icons\digg_16.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/social_icons/twitter_16.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\social_icons\twitter_16.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/social_icons/delicious_16.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\social_icons\delicious_16.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/social_icons/reddit_16.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\social_icons\reddit_16.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/social_icons/google_plus_16.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\social_icons\google_plus_16.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/preloader.gif
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/caption-bg.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/alert.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\alert.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/buttons.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\buttons.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/fullscreen-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/x-mark-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/arrow-next-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/arrow-prev-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/play-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/pause-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/thumb-overlay-play.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/arrow-next-vertical-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\arrow-next-vertical-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/dark-skin/arrow-prev-vertical-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\dark-skin\arrow-prev-vertical-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/preloader.gif
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/caption-bg.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/alert.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\alert.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/buttons.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\buttons.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/fullscreen-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/x-mark-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/arrow-next-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/arrow-prev-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/play-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/pause-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/thumb-overlay-play.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/arrow-next-vertical-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\arrow-next-vertical-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/light-skin/arrow-prev-vertical-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\light-skin\arrow-prev-vertical-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/preloader.gif
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/caption-bg.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/alert.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\alert.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/close-25.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\close-25.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/resize-25.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\resize-25.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/play-25.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\play-25.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/pause-25.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\pause-25.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/resize-50.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\resize-50.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/close-50.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\close-50.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/forward-50.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\forward-50.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/back-50.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\back-50.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/play-50.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\play-50.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/pause-50.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\pause-50.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/thumb-overlay-play.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/forward-vertical-50.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\forward-vertical-50.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/mac-skin/back-vertical-50.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\mac-skin\back-vertical-50.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/preloader.gif
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/caption-bg.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/social-bg.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\social-bg.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/alert.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\alert.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/buttons.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\buttons.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/fullscreen-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/x-mark-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/arrow-next-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/arrow-prev-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/play-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/pause-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/thumb-overlay-play.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/arrows_vertical.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-black-skin/arrows_horizontal.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-black-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/preloader.gif
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/caption-bg.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/social-bg.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\social-bg.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/alert.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\alert.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/buttons.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\buttons.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/fullscreen-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/fullscreen-hover-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\fullscreen-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/x-mark-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/x-mark-hover-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\x-mark-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/arrow-next-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/arrow-next-hover-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\arrow-next-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/arrow-prev-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/arrow-prev-hover-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\arrow-prev-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/play-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/play-hover-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\play-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/pause-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/pause-hover-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\pause-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/thumb-overlay-play.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/arrows_vertical.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/metro-white-skin/arrows_horizontal.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\metro-white-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/parade-skin/pattern.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\parade-skin\pattern.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/parade-skin/preloader.gif
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\parade-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/parade-skin/caption-bg.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\parade-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/parade-skin/alert.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\parade-skin\alert.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/parade-skin/buttons.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\parade-skin\buttons.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/parade-skin/thumb-overlay-play.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\parade-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/preloader.gif
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/caption-bg.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/alert.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\alert.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/buttons.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\buttons.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/fullscreen-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/x-mark-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/arrow-next-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/arrow-prev-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/play-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/pause-icon-64.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/thumb-overlay-play.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/arrows_vertical.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/images/iLightbox/smooth-skin/arrows_horizontal.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\images\iLightbox\smooth-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/products/feed/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.inspyder.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.inspyder.com%2Fproducts
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.inspyder.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.inspyder.com%2Fproducts&
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-json\oembed\1.0\embed-3
+Content Type: application/json
+
+Uri: https://www.inspyder.com/secure/Cart.aspx?ProductID=24005
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\Cart-1.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/secure/Cart.aspx?ProductID=20005
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\Cart-2.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/secure/Cart.aspx?ProductID=25005
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\Cart-3.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/secure/Cart.aspx?ProductID=27005
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\Cart-4.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/secure/Cart.aspx?ProductID=26005
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\Cart-5.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/secure/Cart.aspx?ProductID=42005
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\Cart-6.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/secure/Cart.aspx?ProductID=23005
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\Cart-7.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/backlink-monitor-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\backlink-monitor-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/backlink-monitor-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\backlink-monitor-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/backlink-monitor-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\backlink-monitor-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/products/BacklinkMonitor/BacklinkMonitorScreenshotGallery
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\BacklinkMonitor\BacklinkMonitorScreenshotGallery.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/support/Licensing
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\support\Licensing.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/BacklinkMonitor/Backlink-Index-Checker
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\BacklinkMonitor\Backlink-Index-Checker.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/BacklinkMonitor/Backlink-PageRank-Checker
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\BacklinkMonitor\Backlink-PageRank-Checker.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/BacklinkMonitor/RevisionHistory
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\BacklinkMonitor\RevisionHistory.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/BacklinkMonitor/Backlink-Status-Explained
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\BacklinkMonitor\Backlink-Status-Explained.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/BacklinkMonitor/Anchor-Text-Profile
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\BacklinkMonitor\Anchor-Text-Profile.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/BacklinkMonitor/Check-Indexed-Without-Telling-Google
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\BacklinkMonitor\Check-Indexed-Without-Telling-Google.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/support/Compatibility
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\support\Compatibility.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/06/inspyder-product-compatibility.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\06\inspyder-product-compatibility.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/insite-screenshot.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\insite-screenshot.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/insite-screenshot-14.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\insite-screenshot-14.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/insite-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\insite-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/products/InSite/InSiteScreenshotGallery
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\InSiteScreenshotGallery.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/Dictionaries
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\Dictionaries.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/Broken-Link-Checker
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\Broken-Link-Checker.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/Keyword-Density-Checker
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\Keyword-Density-Checker.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/Website-Word-Count
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\Website-Word-Count.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/SEO-Analysis
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\SEO-Analysis.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/Automatic-Website-Report
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\Automatic-Website-Report.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/YouTube-Link-Checker
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\YouTube-Link-Checker.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/RevisionHistory
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\RevisionHistory.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/Tutorial-Spellcheck-Website
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\Tutorial-Spellcheck-Website.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/Tutorial-Linkcheck-Website
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\Tutorial-Linkcheck-Website.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/Tutorial-Keyword-Analysis
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\Tutorial-Keyword-Analysis.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/Tutorial-Word-Count-Website
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\Tutorial-Word-Count-Website.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/InSite/Scheduled-Reports
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\InSite\Scheduled-Reports.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/amazon_logo_transparent.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\amazon_logo_transparent.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/orfind-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\orfind-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/orfind-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\orfind-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/orfind-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\orfind-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/products/OrFind/OrFindScreenshotGallery
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\OrFind\OrFindScreenshotGallery.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/OrFind/How-Does-Orphan-Analysis-Work
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\OrFind\How-Does-Orphan-Analysis-Work.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/OrFind/Find-Unlinked-Files
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\OrFind\Find-Unlinked-Files.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/OrFind/Find-Unlinked-Images
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\OrFind\Find-Unlinked-Images.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/OrFind/Find-Unlinked-Pages
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\OrFind\Find-Unlinked-Pages.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/OrFind/Find-Unlinked-Stylesheets
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\OrFind\Find-Unlinked-Stylesheets.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/OrFind/RevisionHistory
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\OrFind\RevisionHistory.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/power-search-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\power-search-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/power-search-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\power-search-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/products/PowerSearch/PowerSearchScreenshotGallery
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\PowerSearch\PowerSearchScreenshotGallery.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/PowerSearch/Wildcard-Tutorial
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\PowerSearch\Wildcard-Tutorial.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/PowerSearch/Find-Email-Addresses-on-a-Website
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\PowerSearch\Find-Email-Addresses-on-a-Website.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/PowerSearch/Find-HTML-Comments
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\PowerSearch\Find-HTML-Comments.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/PowerSearch/Capture-Alt-Text
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\PowerSearch\Capture-Alt-Text.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/PowerSearch/Extract-Page-Titles
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\PowerSearch\Extract-Page-Titles.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/PowerSearch/Find-Missing-Page-Titles
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\PowerSearch\Find-Missing-Page-Titles.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/PowerSearch/RevisionHistory
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\PowerSearch\RevisionHistory.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/rank-reporter-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\rank-reporter-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/rank-reporter-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\rank-reporter-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-19.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-19.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/products/RankReporter/RankReporterScreenshotGallery
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\RankReporter\RankReporterScreenshotGallery.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/RankReporter/Keyword-Checker
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\RankReporter\Keyword-Checker.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/RankReporter/Check-Keyword-Ranking
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\RankReporter\Check-Keyword-Ranking.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/RankReporter/Check-Website-Ranking
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\RankReporter\Check-Website-Ranking.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/RankReporter/Google-Website-Ranking
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\RankReporter\Google-Website-Ranking.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/RankReporter/Search-Rank-Report
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\RankReporter\Search-Rank-Report.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/RankReporter/Track-Website-Ranking
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\RankReporter\Track-Website-Ranking.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/RankReporter/RevisionHistory
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\RankReporter\RevisionHistory.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/sitemap-creator-screenshot-13.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\sitemap-creator-screenshot-13.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/sitemap-creator-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\sitemap-creator-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/sitemap-creator-screenshot-15.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\sitemap-creator-screenshot-15.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/products/SitemapCreator/SitemapScreenshotGallery
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\SitemapScreenshotGallery.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator/Google-Image-Sitemaps
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\Google-Image-Sitemaps.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator/Google-Sitemap-Generator
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\Google-Sitemap-Generator.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator/XML-Sitemap-Creator
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\XML-Sitemap-Creator.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator/Google-Sitemap-Creator
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\Google-Sitemap-Creator.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator/Unlimited-Sitemap-Generator
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\Unlimited-Sitemap-Generator.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator/Automatic-Google-Sitemap-Generator
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\Automatic-Google-Sitemap-Generator.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator/Easy-To-Use-Sitemap-Generator
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\Easy-To-Use-Sitemap-Generator.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator/Google-Compatible-Sitemap
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\Google-Compatible-Sitemap.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator/RevisionHistory
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\RevisionHistory.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator/XML-Sitemap-Help-Your-Ranking
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\XML-Sitemap-Help-Your-Ranking.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator/Google-Sitemap-vs-XML-Sitemap
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\Google-Sitemap-vs-XML-Sitemap.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/SitemapCreator/Sitemap-or-Robots
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\SitemapCreator\Sitemap-or-Robots.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/web2disk-screenshot-8.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\web2disk-screenshot-8.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/web2disk-screenshot-9.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\web2disk-screenshot-9.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/web2disk-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\web2disk-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/products/Web2Disk/Web2DiskScreenshotGallery
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\Web2Disk\Web2DiskScreenshotGallery.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/Web2Disk/Website-Copier
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\Web2Disk\Website-Copier.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/Web2Disk/Website-Downloader
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\Web2Disk\Website-Downloader.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/Web2Disk/Website-Ripper
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\Web2Disk\Website-Ripper.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/Web2Disk/Website-On-CD
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\Web2Disk\Website-On-CD.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/Web2Disk/Download-Entire-Website
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\Web2Disk\Download-Entire-Website.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/Web2Disk/Download-Complete-Website
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\Web2Disk\Download-Complete-Website.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/Web2Disk/Offline-Browsing
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\Web2Disk\Offline-Browsing.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/Web2Disk/RevisionHistory
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\Web2Disk\RevisionHistory.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/Web2Disk/Copy-Website
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\Web2Disk\Copy-Website.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/products/Web2Disk/Monitor-Website-for-Changes
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\products\Web2Disk\Monitor-Website-for-Changes.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/App_Themes/Default/Default.css
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\App_Themes\Default\Default.css
+Content Type: text/css
+
+Uri: https://www.inspyder.com/static/css/bootstrap.min.css
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\static\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.inspyder.com/secure/secure-content.css
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\secure-content.css
+Content Type: text/css
+
+Uri: https://www.inspyder.com/secure/Cart.aspx?ProductID1=24005&ProductID2=20005
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\Cart-8.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/secure/Cart.aspx?ProductID1=24005&ProductID2=20005&ProductID3=23005&ProductID4=27005&ProductID5=25005&ProductID6=26005&ProductID7=42005
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\Cart-9.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/secure/Cart.aspx?ProductID1=24005&ProductID2=20005&ProductID3=26005&ProductID4=42005
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\secure\Cart-10.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/ScriptResource.axd?d=UvFNxl0nAdMKRTwNy6s1n3yLq9h6DkBc12_RSyGl36hE94C9hH1RfzgATfxeSVWxQ9M8BFD2xy6aCvN3pohXY0qtPkZrL8vzs74ZbKv0jegIURZHm7jbHFNPG38e9j93bZB4ArQfnwakUu2A2vFBGfrScHtbTf_USFIdL41GwZPrCR2OJnmai0y2NUftOHTv0&t=72e85ccd
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\ScriptResource.axd
+Content Type: application/x-javascript
+
+Uri: https://www.inspyder.com/free-index
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\free-index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/free-template
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\free-template.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/free/free-content.css
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\free\free-content.css
+Content Type: text/css
+
+Uri: https://www.inspyder.com/support-index
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\support-index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/KnowledgeBase/GeneralProductInformation
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\KnowledgeBase\GeneralProductInformation.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/KnowledgeBase/Purchasing
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\KnowledgeBase\Purchasing.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/KnowledgeBase/BacklinkMonitor
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\KnowledgeBase\BacklinkMonitor.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/KnowledgeBase/InSite
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\KnowledgeBase\InSite.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/KnowledgeBase/OrFind
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\KnowledgeBase\OrFind.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/KnowledgeBase/PowerSearch
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\KnowledgeBase\PowerSearch.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/KnowledgeBase/Web2Disk
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\KnowledgeBase\Web2Disk.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/KnowledgeBase/RankReporter
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\KnowledgeBase\RankReporter.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/KnowledgeBase/SitemapCreator
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\KnowledgeBase\SitemapCreator.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/downloads/InspyderOrFind5.pdf
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\downloads\InspyderOrFind5.pdf
+Content Type: application/pdf
+
+Uri: https://www.inspyder.com/downloads/InspyderRankReporter5.pdf
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\downloads\InspyderRankReporter5.pdf
+Content Type: application/pdf
+
+Uri: https://www.inspyder.com/downloads/InspyderBacklinkMonitor5.pdf
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\downloads\InspyderBacklinkMonitor5.pdf
+Content Type: application/pdf
+
+Uri: https://www.inspyder.com/downloads/InspyderInSite5.pdf
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\downloads\InspyderInSite5.pdf
+Content Type: application/pdf
+
+Uri: https://www.inspyder.com/downloads/InspyderPowerSearch5.pdf
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\downloads\InspyderPowerSearch5.pdf
+Content Type: application/pdf
+
+Uri: https://www.inspyder.com/downloads/InspyderSitemapCreator5.pdf
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\downloads\InspyderSitemapCreator5.pdf
+Content Type: application/pdf
+
+Uri: https://www.inspyder.com/downloads/InspyderWeb2Disk5.pdf
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\downloads\InspyderWeb2Disk5.pdf
+Content Type: application/pdf
+
+Uri: https://www.inspyder.com/support-template
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\support-template.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/support/support-content.css
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\support\support-content.css
+Content Type: text/css
+
+Uri: https://www.inspyder.com/Contact/feed/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\Contact\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.inspyder.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.inspyder.com%2FContact
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.inspyder.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.inspyder.com%2FContact&
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-json\oembed\1.0\embed-5
+Content Type: application/json
+
+Uri: https://www.inspyder.com/author/admin/feed/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-web-scrapper.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-web-scrapper.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-7.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-7.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-website-qa-tools-screenshot.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-website-qa-tools-screenshot.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/PrivacyPolicy/feed/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\PrivacyPolicy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.inspyder.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.inspyder.com%2FPrivacyPolicy
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.inspyder.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.inspyder.com%2FPrivacyPolicy&
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-json\oembed\1.0\embed-7
+Content Type: application/json
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/fonts/icomoon/icomoon.svg
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\fonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.inspyder.com/wp-content/themes/Avada/Avada/assets/fonts/fontawesome/fontawesome-webfont.eot
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\themes\Avada\Avada\assets\fonts\fontawesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-4.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-4.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-8.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-8.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-9.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-9.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-7.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-7.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-10.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-10.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-11.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-11.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-12.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-12.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-13.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-13.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-14.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-14.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-15.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-15.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-16.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-16.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-17.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-17.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-screenshot-18.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-screenshot-18.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-tier-hiearchy.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-tier-hiearchy.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-status-explained-screenshot.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-status-explained-screenshot.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-summary-screenshot.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-summary-screenshot.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-analysis-settings-screenshot.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-analysis-settings-screenshot.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/backlink-monitor-advanced-options-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\backlink-monitor-advanced-options-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/06/inspyder-product-compatibility-nobtn.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\06\inspyder-product-compatibility-nobtn.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-4.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-4.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-13.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-13.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-16.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-16.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-171.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-171.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-18-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-18-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-12.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-12.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-11.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-11.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-10.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-10.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-9.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-9.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-8-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-8-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-15.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-15.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-6.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-6.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-5.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-5.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/media/bn-BD.zip
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\bn-BD.zip
+Content Type: application/x-zip-compressed
+
+Uri: https://www.inspyder.com/wp-content/media/da-DK.zip
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\da-DK.zip
+Content Type: application/x-zip-compressed
+
+Uri: https://www.inspyder.com/wp-content/media/el-GR.zip
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\el-GR.zip
+Content Type: application/x-zip-compressed
+
+Uri: https://www.inspyder.com/wp-content/media/he-IL.zip
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\he-IL.zip
+Content Type: application/x-zip-compressed
+
+Uri: https://www.inspyder.com/wp-content/media/ko-KR.zip
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\ko-KR.zip
+Content Type: application/x-zip-compressed
+
+Uri: https://www.inspyder.com/wp-content/media/nb-NO.zip
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\nb-NO.zip
+Content Type: application/x-zip-compressed
+
+Uri: https://www.inspyder.com/wp-content/media/nl-NL.zip
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\nl-NL.zip
+Content Type: application/x-zip-compressed
+
+Uri: https://www.inspyder.com/wp-content/media/pt-BR.zip
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\pt-BR.zip
+Content Type: application/x-zip-compressed
+
+Uri: https://www.inspyder.com/wp-content/media/pt-PT.zip
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\pt-PT.zip
+Content Type: application/x-zip-compressed
+
+Uri: https://www.inspyder.com/wp-content/media/ru-RU.zip
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\ru-RU.zip
+Content Type: application/x-zip-compressed
+
+Uri: https://www.inspyder.com/wp-content/media/sv-SE.zip
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\media\sv-SE.zip
+Content Type: application/x-zip-compressed
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-24.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-24.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-25.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-25.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/how-to-spell-check-screenshot-4.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\how-to-spell-check-screenshot-4.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/how-to-spell-check-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\how-to-spell-check-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/how-to-spell-check-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\how-to-spell-check-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-link-error-screenshot.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-link-error-screenshot.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-link-error-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-link-error-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-keyword-density-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-keyword-density-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-report-options.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-report-options.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-word-count-feature-screenshot.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-word-count-feature-screenshot.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-word-count-feature-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-word-count-feature-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-word-count-feature-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-word-count-feature-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-19.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-19.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-20.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-20.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-211.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-211.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/insite-screenshot-22.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\insite-screenshot-22.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/orfind-screenshot-4.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\orfind-screenshot-4.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/orfind-screenshot-5.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\orfind-screenshot-5.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/orfind-screenshot-6.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\orfind-screenshot-6.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/orfind-screenshot-7.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\orfind-screenshot-7.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/orfind-screenshot-14.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\orfind-screenshot-14.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/orfind-screenshot-8.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\orfind-screenshot-8.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/orfind-screenshot-9.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\orfind-screenshot-9.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/orfind-screenshot-10.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\orfind-screenshot-10.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/orfind-screenshot-11.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\orfind-screenshot-11.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/orfind-screenshot-12.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\orfind-screenshot-12.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/orfind-screenshot-13.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\orfind-screenshot-13.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-4.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-4.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-5.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-5.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-6-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-6-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-7.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-7.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-8.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-8.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-9.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-9.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-10.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-10.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-11.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-11.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-12.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-12.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-13.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-13.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-screenshot-14.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-screenshot-14.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-find-email-address-on-website-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-find-email-address-on-website-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-find-email-address-on-website-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-find-email-address-on-website-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-find-email-address-on-website-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-find-email-address-on-website-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-find-email-address-on-website-screenshot-4.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-find-email-address-on-website-screenshot-4.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-find-HTML-comments-on-website-screenshot-1-Copy.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-find-HTML-comments-on-website-screenshot-1-Copy.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-find-HTML-comments-on-website-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-find-HTML-comments-on-website-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-find-HTML-comments-on-website-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-find-HTML-comments-on-website-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-find-HTML-comments-on-website-screenshot-4.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-find-HTML-comments-on-website-screenshot-4.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-capture-alt-text-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-capture-alt-text-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-capture-alt-text-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-capture-alt-text-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-capture-alt-text-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-capture-alt-text-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-capture-HTML-page-titles-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-capture-HTML-page-titles-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-capture-HTML-page-titles-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-capture-HTML-page-titles-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-capture-HTML-page-titles-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-capture-HTML-page-titles-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-find-missing-page-titles-screenshot-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-find-missing-page-titles-screenshot-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-find-missing-page-titles-screenshot-2-1.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-find-missing-page-titles-screenshot-2-1.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/power-search-tutorial-find-missing-page-titles-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\power-search-tutorial-find-missing-page-titles-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-4.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-4.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-5.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-5.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-7.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-7.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-8.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-8.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-9.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-9.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-18.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-18.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-10.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-10.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-11.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-11.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-13.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-13.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-14.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-14.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-15.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-15.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-16.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-16.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/rank-reporter-screenshot-17.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\rank-reporter-screenshot-17.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/sitemap-creator-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\sitemap-creator-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/sitemap-creator-screenshot-4.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\sitemap-creator-screenshot-4.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/sitemap-creator-screenshot-5.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\sitemap-creator-screenshot-5.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/sitemap-creator-screenshot-6.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\sitemap-creator-screenshot-6.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/sitemap-creator-screenshot-7.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\sitemap-creator-screenshot-7.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/sitemap-creator-screenshot-8.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\sitemap-creator-screenshot-8.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/sitemap-creator-screenshot-9.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\sitemap-creator-screenshot-9.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/sitemap-creator-screenshot-10.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\sitemap-creator-screenshot-10.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/sitemap-creator-screenshot-11.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\sitemap-creator-screenshot-11.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/sitemap-creator-screenshot-12.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\sitemap-creator-screenshot-12.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/sitemap-creator-screenshot-14.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\sitemap-creator-screenshot-14.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/06/Website-Without-Sitemap.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\06\Website-Without-Sitemap.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/06/Website-With-Sitemap.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\06\Website-With-Sitemap.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/06/Website-Without-Sitemap-300x252.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\06\Website-Without-Sitemap-300x252.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/06/Website-With-Sitemap-300x252.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\06\Website-With-Sitemap-300x252.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/04/web2disk-screenshot.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\04\web2disk-screenshot.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/web2disk-screenshot-2.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\web2disk-screenshot-2.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/web2disk-screenshot-3.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\web2disk-screenshot-3.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/web2disk-screenshot-4.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\web2disk-screenshot-4.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/web2disk-screenshot-5.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\web2disk-screenshot-5.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/web2disk-screenshot-6.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\web2disk-screenshot-6.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/wp-content/uploads/2015/05/web2disk-screenshot-7.png
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\wp-content\uploads\2015\05\web2disk-screenshot-7.png
+Content Type: image/png
+
+Uri: https://www.inspyder.com/static/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\static\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.inspyder.com/static/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\static\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.inspyder.com/static/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\static\fonts\glyphicons-halflings-regular.woff
+Content Type: font/x-woff
+
+Uri: https://www.inspyder.com/static/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\static\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.inspyder.com/static/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\static\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.inspyder.com/knowledgebase/are-inspyder-products-mac-compatible/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\knowledgebase\are-inspyder-products-mac-compatible\index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/knowledgebase/i-am-not-receiving-an-email-notifications-from-the-scheduler-whats-wrong/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\knowledgebase\i-am-not-receiving-an-email-notifications-from-the-scheduler-whats-wrong\index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/knowledgebase/can-i-configure-multiple-email-recipients-for-my-scheduled-reports/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\knowledgebase\can-i-configure-multiple-email-recipients-for-my-scheduled-reports\index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/knowledgebase/where-are-my-project-files-stored/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\knowledgebase\where-are-my-project-files-stored\index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/knowledgebase/email-settings/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\knowledgebase\email-settings\index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/knowledgebase/when-i-try-to-schedule-your-software-i-receive-an-unexpected-error/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\knowledgebase\when-i-try-to-schedule-your-software-i-receive-an-unexpected-error\index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/knowledgebase/ive-lost-my-registration-code-can-you-send-it-to-me-again/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\knowledgebase\ive-lost-my-registration-code-can-you-send-it-to-me-again\index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/knowledgebase/proxy-settings/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\knowledgebase\proxy-settings\index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/knowledgebase/does-the-inspyder-crawler-obey-robots-txt/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\knowledgebase\does-the-inspyder-crawler-obey-robots-txt\index.htm
+Content Type: text/html
+
+Uri: https://www.inspyder.com/knowledgebase/why-does-your-software-use-relative-urls-in-the-exclusion-list/
+File Name: C:\Users\Home\Desktop\New folder (6)\www.inspyder.com\knowledgebase\why-does-your-software-use-relative-urls-in-the-exclusion-list\index.htm
+Content Type: text/html
+
